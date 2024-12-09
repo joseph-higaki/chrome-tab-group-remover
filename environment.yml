@@ -1,0 +1,10 @@
+name: chrome-tab-group-remover
+channels:
+  - defaults
+dependencies:
+  - python=3.9  # Specify the Python version you want
+  - pip  # Include pip for non-Conda packages
+  - setuptools  # Recommended for installing Python packages
+  - wheel  # Handles Python package wheels
+  - pip:      
+      - pyautogui
