@@ -1,4 +1,4 @@
-# Simple Automation tool to remove 
+# Simple Automation tool to remove Unwanted Chrom Group Tabs
 
 ## Feature: Save Group Tabs
 Sometime ago anytime you opened tabs in groups, the groups were by default saved to your Google chrome profile
