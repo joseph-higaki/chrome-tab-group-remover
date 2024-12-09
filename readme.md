@@ -26,5 +26,7 @@ Have this simple [python script](./main.py) where you can automate the tedious c
 
 TO-DO: 
 - [ ] parametrize number of tab groups to be deleted
+- [ ] package solution for a non python-savvy or technical user
 - [ ] parametrize or have a smarter way to locate Chrome window
 - [ ] create a report of open group tabs so that you can review before deleting them
+
